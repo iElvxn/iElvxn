@@ -1,4 +1,4 @@
-### Hi There! My name is ELvin.
+### Hi There! My name is Elvin.
 -----
 # :postbox: About Me
 My name is Elvin and I am a Computer Science student!
@@ -14,7 +14,7 @@ public class Elvin
 
 ### :smirk: Other Accounts
 
-I have been interested in coding since I was in highschool. I started off coding using block Scratch code and grew to learn line langauges such as Python and Java. At 13 I used my Java knowledge to experiment with Minecraft plugins and started to create my own. At around 14 - 15 I started to try creating my own games in Unity, where I dipped my toes into C#. Now I am playing around with Web Design and languages such as HTML, CSS and JavaScript. I have tried tools such as Node.js and React, however, I am still learning!
+I have been interested in coding since I was in high school. I started off coding by creating Roblox games that had garnered thousands of players. Now I'm creating full-stack web and mobile applications and exploring AI/ML integrations!
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
@@ -26,7 +26,7 @@ I have been interested in coding since I was in highschool. I started off coding
 -----
 
 # Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=js,ts,react,next,html,css,mongodb,express,nodejs,tailwind&theme=dark)](https://skillicons.dev)
 
 [![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
 
