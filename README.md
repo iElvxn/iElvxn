@@ -26,9 +26,9 @@ I have been interested in coding since I was in high school. I started off codin
 -----
 
 # Tech Stack
-[!(https://skillicons.dev/icons?i=js,ts,html,css,java,py,c,SQL,&theme=dark)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=js,ts,html,css,java,py,c,SQL,&theme=dark)](https://skillicons.dev)
 
-[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,next,node,express&theme=dark)](https://skillicons.dev)
 
 [![Game Development](https://skillicons.dev/icons?i=cs,unity,godot&theme=dark)](https://skillicons.dev)
 
