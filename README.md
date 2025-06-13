@@ -4,11 +4,11 @@
 My name is Elvin and I am a Computer Science student!
 
 ```java
-public class Aidan
+public class Elvin
 {
   private int age = 20;
   public String[] traits = new String[] { "dumb", "short", "nerd" };
-  public String[] hobbies = new String[] { "Coding!", "Ultimate Frisbee", "Chess", "Wrestling", "Sleeping" };
+  public String[] hobbies = new String[] { "Coding!", "Fashion", "Gaming", "Sleeping" };
 }
 ```
 
