@@ -31,4 +31,4 @@ I have been interested in coding since I was in high school. I started off codin
 [![Tools](https://skillicons.dev/icons?i=aws,firebase,mongodb,gcp,vscode,github,git&theme=dark)](https://skillicons.dev)
 
 # :bar_chart: Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iElvxn&layout=donut&hide=css,scss,pug)](https://github.com/iElvxn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iElvxn&layout=donut&hide=css,scss,pug,kotlin)](https://github.com/iElvxn/github-readme-stats)
