@@ -28,9 +28,9 @@ I have been interested in coding since I was in high school. I started off codin
 # Tech Stack
 [![Langs](https://skillicons.dev/icons?i=js,ts,html,css,java,py,c,SQL,&theme=dark)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,expressjs,tensorflow,numpy&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,expressjs,tensorflow,opencv&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,firebase,mongodb,gcpvscode,github,git&theme=dark)](https://skillicons.dev)
 
 # :bar_chart: Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ouckah)](https://github.com/anuraghazra/github-readme-stats)
