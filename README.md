@@ -15,11 +15,11 @@ public class Elvin
 I have been interested in coding since I was in high school. I started off coding by creating Roblox games that had garnered thousands of players. Now I'm creating full-stack web and mobile applications and exploring AI/ML integrations!
 
 # :round_pushpin: What I'm Up To?
-###- 🐻: Currently I am:
-###  - Looking for internships 📋
-###  - Self-teaching AI / Machine Learning 🤖
-###  - Developing apps 💻
-###  - Grinding LeetCode 🍵
+### - 🐻: Currently I am:
+  - Looking for internships 📋
+  - Self-teaching AI / Machine Learning 🤖
+  - Developing apps 💻
+  - Grinding LeetCode 🍵
 
 -----
 
