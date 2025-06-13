@@ -7,14 +7,14 @@ My name is Elvin and I am a Computer Science student!
 public class Elvin
 {
   private int age = 20;
-  public String[] traits = new String[] { "dumb", "short", "nerd" };
+  public String[] traits = new String[] { "sleepy", "hungry", "nerd" };
   public String[] hobbies = new String[] { "Coding!", "Fashion", "Gaming", "Sleeping" };
 }
 ```
 
 ### :smirk: Other Accounts
 
-I have been interested in coding from the ripe age of 11 years old. I started off coding using block Scratch code and grew to learn line langauges such as Python and Java. At 13 I used my Java knowledge to experiment with Minecraft plugins and started to create my own. At around 14 - 15 I started to try creating my own games in Unity, where I dipped my toes into C#. Now I am playing around with Web Design and languages such as HTML, CSS and JavaScript. I have tried tools such as Node.js and React, however, I am still learning!
+I have been interested in coding since I was in highschool. I started off coding using block Scratch code and grew to learn line langauges such as Python and Java. At 13 I used my Java knowledge to experiment with Minecraft plugins and started to create my own. At around 14 - 15 I started to try creating my own games in Unity, where I dipped my toes into C#. Now I am playing around with Web Design and languages such as HTML, CSS and JavaScript. I have tried tools such as Node.js and React, however, I am still learning!
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
