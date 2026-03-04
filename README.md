@@ -32,4 +32,3 @@ I have been interested in coding since I was in high school. I started off codin
 
 # :bar_chart: Stats
 [![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iElvxn)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
