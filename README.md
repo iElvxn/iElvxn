@@ -1,13 +1,13 @@
 ### Hi There! My name is Elvin.
 -----
 # :postbox: About Me
-My name is Elvin and I am a Computer Science student!
+My name is Elvin, and I am a Computer Science student!
 
 ```java
 public class Elvin
 {
   private int age = 20;
-  public String[] traits = new String[] { "sleepy", "hungry", "nerd" };
+  public String[] traits = new String[] { "sleepy", "hungry", "workaholic" };
   public String[] hobbies = new String[] { "Coding!", "Fashion", "Gaming", "Sleeping" };
 }
 ```
@@ -31,4 +31,4 @@ I have been interested in coding since I was in high school. I started off codin
 [![Tools](https://skillicons.dev/icons?i=aws,firebase,mongodb,gcp,vscode,github,git&theme=dark)](https://skillicons.dev)
 
 # :bar_chart: Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iElvxn&layout=donut&hide=css,scss,pug,kotlin&theme=transparent&title_color=a1368a&text_color=f4f1ff)](https://github.com/iElvxn/github-readme-stats)
+[![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iElvxn)](https://github.com/anuraghazra/github-readme-stats)
